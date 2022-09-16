@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "7121f03c3ad12738df74fce1281c70b25285b492cd0551d107780cb0a1a43804"
+build_start_time: [1663364042, 19091129]
+build_end_time: [1663364042, 169314861]
+inputs:
+  "/Users/wendyqiu/Downloads/cs279r-flutter/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1663364012, 36350250]
+  "/Users/wendyqiu/Downloads/cs279r-flutter/macos/Runner/AppDelegate.swift": !private [1658643786, 0]
+  "/Users/wendyqiu/Downloads/cs279r-flutter/macos/Runner/MainFlutterWindow.swift": !private [1658643786, 0]
